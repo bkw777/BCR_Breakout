@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DB9_Female
+D 9-pin female D-SUB connector
+K connector female D-SUB
+F  ~
+$ENDCMP
+#
+$CMP UE27AC54100
+D CONN RCPT USB2.0 TYPEA 4POS R/A
+K UE27AC54100-ND UE27
+F https://www.amphenolcanada.com/ProductSearch/drawings/AC/UE27ACX4X0X.pdf
+$ENDCMP
+#
+#End Doc Library
