@@ -29,6 +29,11 @@ Adapter to make it more convenient to access the +5dvc power available on the BC
 
 ![](BCR_USB_PWR_13.png)
 
+## NEC PC-8201 / PC-8201a / PC-8300
+
+![](BCR_USB_PWR_NEC.png)
+
+
 ## Parts
 * [PCB](https://oshpark.com/shared_projects/uBcxaymt)
 * [BOM](https://www.digikey.com/short/zb3bvr)
