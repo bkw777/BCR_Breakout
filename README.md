@@ -29,6 +29,10 @@ Adapter to make it more convenient to access the +5dvc power available on the BC
 
 ![](BCR_USB_PWR_13.png)
 
+## Parts
+* [PCB](https://oshpark.com/shared_projects/uBcxaymt)
+* [BOM](https://www.digikey.com/short/zb3bvr)
+
 ## Directions
 
 1: Break or cut the screw-hole flanges off the sides of the DE9F connector, so that the plug is 25mm long or shorter after.
