@@ -35,7 +35,8 @@ Adapter to make it more convenient to access the +5dvc power available on the BC
 
 
 ## Parts
-* [PCB](https://oshpark.com/shared_projects/uBcxaymt)
+* [PCB for Tandy](https://oshpark.com/shared_projects/uBcxaymt)
+* [PCB for NEC](https://oshpark.com/shared_projects/pU895scG)
 * [BOM](https://www.digikey.com/short/zb3bvr)
 
 ## Directions
