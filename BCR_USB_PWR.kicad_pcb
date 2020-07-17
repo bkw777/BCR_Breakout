@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 19)
+    (drawings 17)
     (tracks 4)
     (zones 0)
     (modules 2)
@@ -210,9 +210,6 @@
     )
   )
 
-  (gr_text 100/200 (at 121.3 90.458) (layer F.SilkS) (tstamp 5F10254C)
-    (effects (font (size 0.8 0.8) (thickness 0.1)))
-  )
   (gr_line (start 136.6 90.408) (end 136.6 101.108) (layer Dwgs.User) (width 0.15) (tstamp 5F0FEDB0))
   (gr_line (start 117.4 90.408) (end 136.6 90.408) (layer Dwgs.User) (width 0.15))
   (gr_line (start 117.4 101.108) (end 117.4 90.408) (layer Dwgs.User) (width 0.15))
@@ -224,9 +221,6 @@
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
   (gr_text github.com/bkw777/BCR_USB_PWR (at 125.9 101.458) (layer B.SilkS) (tstamp 5F0FA981)
-    (effects (font (size 0.6 0.6) (thickness 0.1)) (justify mirror))
-  )
-  (gr_text "TRS-80 Model 100 / TANDY 200" (at 125.7 91.058) (layer B.SilkS) (tstamp 5F0FA697)
     (effects (font (size 0.6 0.6) (thickness 0.1)) (justify mirror))
   )
   (gr_text "5v USB power from BCR port" (at 125.8 89.858) (layer B.SilkS)

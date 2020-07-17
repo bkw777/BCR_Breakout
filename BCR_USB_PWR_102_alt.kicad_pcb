@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 17)
+    (drawings 21)
     (tracks 4)
     (zones 0)
     (modules 2)
@@ -215,7 +215,13 @@
     )
   )
 
-  (gr_text "SHORTING HAZARD !!!" (at 121.65 99.058) (layer F.SilkS) (tstamp 5F10491C)
+  (gr_text HAZARD!!! (at 122.85 100.633) (layer F.SilkS) (tstamp 5F10EDE6)
+    (effects (font (size 0.8 0.8) (thickness 0.08)))
+  )
+  (gr_line (start 122.85 96.083) (end 122.85 98.858) (layer F.SilkS) (width 0.1016))
+  (gr_line (start 122.15 95.733) (end 122.85 96.083) (layer F.SilkS) (width 0.1016))
+  (gr_line (start 121.9 96.258) (end 122.375 95.258) (layer F.SilkS) (width 0.1016))
+  (gr_text SHORTING (at 122.85 99.633) (layer F.SilkS) (tstamp 5F10491C)
     (effects (font (size 0.8 0.8) (thickness 0.08)))
   )
   (gr_text GND (at 119.3 97.208) (layer F.SilkS) (tstamp 5F104891)
