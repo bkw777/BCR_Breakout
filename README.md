@@ -27,7 +27,7 @@ Don't worry about the exposed pins near the open end of the usb socket. They are
 
 ---
 
-There are several other variations of this adapter in this directory. On the TANDY 102 and NEC, the usb cable could point in a better direction. So there are special versions of the adapter for 102 and NEC, but in both of those cases the altered arrangement ends up exposing the 5v and GND pins right where the metal usb plug may touch them when inserting a usb cable. These adapters pose a high risk of shorting out the 5v rail inside the computer and killing it.
+There are several other variations of this adapter in this directory. On the TANDY 102 and NEC, the usb cable could point in a better direction. So there are special versions of the adapter for 102 and NEC, but in both of those cases the altered arrangement leaves the 5v and GND pins exposed right where the metal usb plug may touch them when inserting a usb cable. Those adapters pose a high risk of shorting out the 5v rail inside the computer and killing it.
 
 To use either the 102 or NEC adapters, I would recommend doing this:
 
