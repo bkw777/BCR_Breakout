@@ -5,12 +5,12 @@ Adapter to make it more convenient to access the +5dvc power available on the BC
 
 Works on the following machines and any others that have this standard of barcode reader port:
 
-TRS-80/TANDY Model 100, 102, 200
-NEC PC-8201, PC-8201a, PC-8300
-Olivetti M10
+TRS-80/TANDY Model 100, 102, 200  
+NEC PC-8201, PC-8201a, PC-8300  
+Olivetti M10  
 
 ## Parts
-* [BOM](https://www.digikey.com/short/zb3bvr)
+* [BOM](https://www.digikey.com/short/zb4hr4)
 
 ## Directions
 
