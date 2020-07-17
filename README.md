@@ -37,7 +37,7 @@ To use either the 102 or NEC adapters, I would recommend doing this:
 
 ---
 
-The other variations are just options to use a different 9-pin connector that's all plastic, and options to have a slightly larger pcb that's easier to assemble because you don't have to bend the usb socket shield tabs over under the edge of the 9-pin connector. Load any of the .kicad_pcb in KiCAD and then click View, 3d Viewer, to see them.
+The other variations are just options to use a different 9-pin connector that's all plastic, and options to have a slightly larger pcb that's easier to assemble because you don't have to bend the usb socket shield tabs over under the edge of the 9-pin connector. To view them, open any of the *.kicad_pcb files in KiCAD pcbnew, and then click View, 3d Viewer.
 
 --- 
 
