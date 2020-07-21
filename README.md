@@ -18,7 +18,7 @@ Olivetti M10
 
 2: Cut the soldered legs flush on the USB side of the board. As flat and close to the pcb surface as you can with flush cutters.
 
-3: Position the USB socket on the USB side of the board. Bend the two shield tabs inwards and under the edge of the DE9F connector to clamp onto the oval pads. Be careful that one of the shield tabs does not touch the square usb pin.
+3: Position the USB socket on the USB side of the board. Bend the two shield tabs inwards and under the edge of the DE9F connector to clamp onto the oval pads. Be careful that one of the shield tabs does not touch the usb pin with the square pad.
 
 
 ## Notes
