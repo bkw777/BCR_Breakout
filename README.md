@@ -2,7 +2,7 @@
 ![](BCR_Breakout.png)
 
 ## Parts
-* [BOM](https://www.digikey.com/short/zbf5mf)
+* [BOM for BCR_Breakout](https://www.digikey.com/short/zbf5mf)
 
 Breakout board to connect to the BCR port of TRS-80 Model 100 and similar machines.
 
@@ -18,7 +18,7 @@ Olivetti M10
 |![](BCR_USB_PWR.png)|![](BCR_USB_PWR_up.png)|
 
 ## Parts
-* [BOM](https://www.digikey.com/short/zb4hr4)
+* [BOM for BCR_USB_PWR](https://www.digikey.com/short/zb4hr4)
 
 5v USB power from the BCR port
 
