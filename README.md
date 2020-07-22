@@ -13,7 +13,7 @@ NEC PC-8201, PC-8201a, PC-8300
 Olivetti M10  
 
 # BCR USB Power
-|Horizontal<br>(Standard version good for all machines)|Vertical<br>(May want for NEC)|
+|Horizontal<br>(Standard version good for all machines)|Vertical<br>(May want for NEC or T102 if you don't have a right-angle usb cable)|
 |:---:|:---:|
 |![](BCR_USB_PWR.png)|![](BCR_USB_PWR_up.png)|
 
