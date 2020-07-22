@@ -13,7 +13,9 @@ NEC PC-8201, PC-8201a, PC-8300
 Olivetti M10  
 
 # BCR USB Power
-![](BCR_USB_PWR.png)
+|Standard Version|UP version<br>(may want for NEC or T102)|
+|:---:|:---:|
+|![](BCR_USB_PWR.png)|![](BCR_USB_PWR_up.png)|
 
 ## Parts
 * [BOM](https://www.digikey.com/short/zb4hr4)
