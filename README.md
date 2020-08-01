@@ -3,6 +3,7 @@
 
 ## Parts
 * [BOM for BCR_Breakout](https://www.digikey.com/short/zbf5mf)
+* <a href="https://oshpark.com/shared_projects/MTOWfRkz"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a>
 
 Breakout board to connect to the BCR port of TRS-80 Model 100 and similar machines.
 
