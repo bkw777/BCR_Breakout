@@ -6,7 +6,7 @@
 |<img src=BCR_USB_PWR.png width=300>|5v USB Power<br><a href="https://oshpark.com/shared_projects/mTFeysVg"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a><br>[BOM from DigiKey](https://www.digikey.com/short/zb4hr4)|
 |<img src=BCR_USB_PWR_up.png width=300>|5v USB Power - Vertical - NOT for T102<br><a href="https://oshpark.com/shared_projects/OHdw5nqN"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a><br>BOM same as above|
 
-More Pictures: https://github.com/bkw777/WiModem_to_100
+More Pictures: https://photos.app.goo.gl/GiW2hqHJGh4SDVdD6
 
 Breakout board to connect to the BCR port of TRS-80 Model 100 and similar machines.
 
