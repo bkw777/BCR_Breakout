@@ -1,5 +1,11 @@
 # BCR Breakout / BCR USB Power
 
+<b>UPDATE - WARNING</b>
+DO NOT USE the metal 9-pin connector in the BOM links below.<br>
+Use this all-plastic part instead.<br>
+[TE 5207826-4](https://www.digikey.com/short/z54hj5)
+----
+
 |||
 |:---:|:---:|
 |<img src=BCR_Breakout.png width=300>|Breakout<br><a href="https://oshpark.com/shared_projects/MTOWfRkz"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a><br>[BOM from DigiKey](https://www.digikey.com/short/zbf5mf)|
