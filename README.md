@@ -1,8 +1,10 @@
 # BCR Breakout / BCR USB Power
 
-<b>UPDATE - WARNING</b>
-DO NOT USE the metal 9-pin connector in the BOM links below.<br>
-Use this all-plastic part instead.<br>
+### UPDATE - WARNING
+
+DO NOT USE the metal 9-pin connector in the BOM links below.  
+Use this all-plastic part instead.  
+
 [TE 5207826-4](https://www.digikey.com/short/z54hj5)
 ----
 
