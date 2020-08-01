@@ -1,9 +1,10 @@
-# BCR Breakout
-![](BCR_Breakout.png)  
-<a href="https://oshpark.com/shared_projects/MTOWfRkz"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a>
+# BCR Breakout / BCR USB Power
 
-## Parts
-* [BOM for BCR_Breakout](https://www.digikey.com/short/zbf5mf)
+|||
+|:---:|:---:|
+|<img src=BCR_Breakout.png width=300>|Breakout<br><a href="https://oshpark.com/shared_projects/MTOWfRkz"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a><br>[BOM from DigiKey](https://www.digikey.com/short/zbf5mf)|
+|<img src=BCR_USB_PWR.png width=300>|5v USB Power<br><a href="https://oshpark.com/shared_projects/mTFeysVg"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a><br>[BOM from DigiKey](https://www.digikey.com/short/zb4hr4)|
+|<img src=BCR_USB_PWR_up.png width=300>|5v USB Power - Vertical - NOT for T102<br><a href="https://oshpark.com/shared_projects/OHdw5nqN"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a><br>BOM same as above|
 
 Breakout board to connect to the BCR port of TRS-80 Model 100 and similar machines.
 
@@ -12,17 +13,6 @@ Works on the following machines and any others that have this standard of barcod
 TRS-80/TANDY Model 100, 102, 200  
 NEC PC-8201, PC-8201a, PC-8300  
 Olivetti M10  
-
-# BCR USB Power
-|Horizontal|Vertical<br>(not for T102)|
-|:---:|:---:|
-|![](BCR_USB_PWR.png)|![](BCR_USB_PWR_up.png)|
-|<a href="https://oshpark.com/shared_projects/mTFeysVg"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a>|<a href="https://oshpark.com/shared_projects/OHdw5nqN"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a>|
-
-## Parts
-* [BOM for BCR_USB_PWR](https://www.digikey.com/short/zb4hr4)
-
-5v USB power from the BCR port
 
 # Directions
 
