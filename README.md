@@ -19,7 +19,7 @@ Olivetti M10
 
 # Directions
 
-1: Assuming the all-plastic TE-5207826 DE9F connector: Cut and sand the screw-hole ends off the the DE9F connector, leaving just the center "D" part.
+1: Assuming the all-plastic TE-5207826 DE9F connector: Cut and sand the screw-hole ends off the the DE9F connector, leaving a center section only as wide as the center "D" part.
 
 2: Solder the DE9F connector on the side that says "DE9F SIDE".  
 Flush-cut the legs.
