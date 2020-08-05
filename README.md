@@ -2,10 +2,12 @@
 
 |||
 |:---:|:---:|
-|<img src=BCR_Breakout.jpg width=300>|Breakout<br><a href="https://oshpark.com/shared_projects/aQauwYcE"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a><br>[BOM from DigiKey](https://www.digikey.com/short/z54n0n)|
-|<img src=BCR_USB_PWR.jpg width=300>|5v USB Power<br><a href="https://oshpark.com/shared_projects/YR75kxEY"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a><br>[BOM from DigiKey](https://www.digikey.com/short/z54nv4)|
+|<img src=BCR_Breakout.jpg width=300>|Breakout<br><a href="https://oshpark.com/shared_projects/ETFNW5fq"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a><br>[BOM from DigiKey](https://www.digikey.com/short/z54n0n)|
+|<img src=BCR_USB_PWR.jpg width=300>|5v USB Power<br><a href="https://oshpark.com/shared_projects/dsaldJIX"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a><br>[BOM from DigiKey](https://www.digikey.com/short/z54nv4)|
+<!--
 |<img src=BCR_USB_PWR_up.jpg width=300>|5v USB Power - UP<br><a href="https://oshpark.com/shared_projects/AGVGJGG8"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a><br>BOM same as above<br>NOT for TANDY 102 or Olivetti M10|
 |<img src=BCR_USB_PWR_down.jpg width=300>|5v USB Power - DOWN<br><a href="https://oshpark.com/shared_projects/nFUGEJwC"><img src="https://oshpark.com/packs/media/images/badge-84bb0776ea53b1f532c02df323a90c88.png" alt="Order from OSH Park"></img></a><br>BOM same as above<br>ONLY for TANDY 102 or Olivetti M10|
+-->
 
 More Pictures: https://photos.app.goo.gl/GiW2hqHJGh4SDVdD6
 
