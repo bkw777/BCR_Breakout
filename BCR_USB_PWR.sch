@@ -48,28 +48,24 @@ Text Label 5010 3580 0    50   ~ 0
 +5V
 Text Label 5010 4080 0    50   ~ 0
 RXD
-Text Label 5010 3480 0    50   ~ 0
-GND
 Text Label 5010 3980 0    50   ~ 0
 GND
-Text Notes 5180 3460 0    50   ~ 0
-(power)
-Text Notes 5180 3960 0    50   ~ 0
-(signal)
-Wire Wire Line
-	5010 3480 6010 3480
-Wire Wire Line
-	6010 3480 6010 3880
-Wire Wire Line
-	6010 3880 6510 3880
+Text Notes 5220 3460 0    50   ~ 0
+(extra GND on some models)
 Wire Wire Line
 	5010 3580 6510 3580
 Text Label 6510 3580 2    50   ~ 0
 +5V
-Text Label 6510 3880 2    50   ~ 0
-GND
 Text Notes 5090 4530 2    50   ~ 0
 BCR (power only)
 Text Notes 7050 4150 2    50   ~ 0
 USB (power only)
+Wire Wire Line
+	6510 3880 5790 3880
+Wire Wire Line
+	5790 3880 5790 3980
+Wire Wire Line
+	5790 3980 5010 3980
+Text Label 5010 3480 0    50   ~ 0
+GND*
 $EndSCHEMATC
