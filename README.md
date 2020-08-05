@@ -31,14 +31,23 @@ If USB, bend the two shield solder tabs down to clamp onto the oval pads.
 Solder the shield tabs and legs.  
 Flush-cut the legs.
 
+4: Optional: Apply some hot-glue or conformal coating etc to cover the soldered legs of the USB port on the edge of the board, especially the square pad, as that's the +5v pin.
+
+
 # Notes
 DO NOT USE a standard metal DE9F connector.  
-Use the all-plastic [TE 5207826-4](https://www.digikey.com/short/z54hj5) part from the BOM links.
+Use the all-plastic [TE 5207826-4](https://www.digikey.com/short/z54hj5) part from the BOM links.  
+A standard metal DE9F plug easily shorts the GND and 5v pins (7 & 9) while inserting the plug, especially on Model 100 which has an extra GND pin (5) on it's BCR port.
 
-The "UP" variant is just an optional version which may be slightly more convenient in some cases. Mostly there is no need for it.
 
-The "DOWN" variant is an optional version which may be more convenient for TANDY 102 or Olivetti M10. The BCR port is "upside down" on those two models, which causes the normal BCR_USB_Power adapter to poing the USB cable in inelegant directions. This variant will point the USB cable directly up on those two models. It is not suitable for any other model. For this version, you should apply a drop of hot-glue over the indicated pin after soldering the DE9F but before installing the USB socket, to prevent the usb socket shield from touching the 5v pin.
+## Other variations
+There are several other *.kicad_pcb files in the repo. Mostly you don't need, and should avoid using because most of them pose a risk of shorting the 5v pin to gnd.
 
-There is no left-right mirror version of the normal BCR_USB_Power adapter (which WOULD be ideal for TANDY 102) because the +5v & GND pins from the BCR port would be exposed to shorting on the metal plug on a USB cable.  
+The "UP" variant is just an optional version which may be slightly more convenient in some cases. Mostly there is no need for it. I could be good for NEC with a standard straight USB-A plug. It points the USB socket straight up on NEC, 100, & 200. On 102 and M10 the USB socket would point straight down, so this version is no good for Tandy 102 or Olivetti M10.
 
-It wouldn't hurt to apply some hot-glue or conformal coating to cover the soldered USB legs on the edge of the board, especially the square +5v pin.
+The "DOWN" variant is the opposite of the "UP" version, for TANDY 102 or Olivetti M10. The BCR port is "upside down" on those two models, which causes the normal BCR_USB_Power adapter to poing the USB cable in inelegant directions. This variant will point the USB cable directly up on those two models. It is not suitable for any other model. For this version, you should apply a drop of hot-glue over the indicated pin after soldering the DE9F but before installing the USB socket, to prevent the usb socket shield from touching the 5v pin. Bear in mind, the usb socket gets pushed on sometimes quite firmly when inserting the adapter into the computer.
+
+The "102" version is pretty much just for Tandy 102. This version points the USB socket towards the back of the Tandy 102, The way the normal version does on a Model 100.
+
+The "alt" and "long" versions don't require cutting down the DE9F connector, or don't require crimping the USB socket shield solder tabs. This makes the pcb larger, and poses a shorting hazard on the DE9F 5v pin.
+
