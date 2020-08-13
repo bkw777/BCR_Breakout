@@ -19,6 +19,8 @@ TRS-80/TANDY Model 100, 102, 200
 NEC PC-8201, PC-8201a, PC-8300  
 Olivetti M10  
 
+http://tandy.wiki/BCR_PORT
+
 # Directions
 
 1: Assuming the all-plastic TE-5207826 DE9F connector: Cut and sand the screw-hole ends off the the DE9F connector, leaving a center section only as wide as the center "D" part.
