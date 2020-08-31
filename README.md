@@ -23,17 +23,17 @@ http://tandy.wiki/BCR_PORT
 
 # Directions
 
-1: Assuming the all-plastic TE-5207826 DE9F connector: Cut and sand the screw-hole ends off the the DE9F connector, leaving a center section only as wide as the center "D" part.
+1. Assuming the all-plastic TE-5207826 DE9F connector: Cut and sand the screw-hole ends off the the DE9F connector, leaving a center section only as wide as the center "D" part.
 
-2: Solder the DE9F connector on the side that says "DE9F SIDE".  
+1. Solder the DE9F connector on the side that says "DE9F SIDE".  
 Flush-cut the legs.
 
-3: Position the 3-pin or USB socket on the other side of the board.  
+1. Position the 3-pin or USB socket on the other side of the board.  
 If USB, bend the two shield solder tabs down to clamp onto the oval pads.  
 Solder the shield tabs and legs.  
 Flush-cut the legs.
 
-4: Optional: Apply some hot-glue or conformal coating etc to cover the soldered legs of the USB port on the edge of the board, especially the square pad, as that's the +5v pin.
+1. Optional: Apply some hot-glue or conformal coating etc to cover the soldered legs of the USB port on the edge of the board, especially the square pad, as that's the +5v pin.
 
 
 # Notes
