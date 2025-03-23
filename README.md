@@ -37,19 +37,24 @@ Flush-cut the legs.
 
 
 # Notes
-DO NOT USE a standard metal DE9F connector.  
-Use the all-plastic [TE 5207826-4](https://www.digikey.com/short/z54hj5) part from the BOM links.  
-A standard metal DE9F plug easily shorts the GND and 5v pins (7 & 9) while inserting the plug, especially on Model 100 which has an extra GND pin (5) on it's BCR port.
+* DO NOT USE a standard metal DE9F connector.  
+  Use the all-plastic [TE 5207826-4](https://www.digikey.com/short/z54hj5) part from the BOM links.  
+  A standard metal DE9F plug easily shorts the GND and 5v pins (7 & 9) while inserting the plug, especially on Model 100 which has an extra GND on pin 5.
+  It's not good enough to just remove the metal shell from a common connector either, because the remaining plastic body is too small to fill the matching shape in the BCR port, and that will directly strain the solder joints where the BCR pins are soldered to the motherboard.
 
+* 50ma power budget  
+  If you try to draw more than about 50ma from the BCR port it will make the computer unstable and crash.  
+  This means don't try to power anything with a wifi chip on it.  
+  It works for PDDuino because the mcu board has no wifi chip and the entire combined mcu board + sdcard + MounT never draws more than about 30ma.
 
 ## Other variations
 There are several other *.kicad_pcb files in the repo. Mostly you don't need, and should avoid using because most of them pose a risk of shorting the 5v pin to gnd.
 
-The "UP" variant is just an optional version which may be slightly more convenient in some cases. Mostly there is no need for it. I could be good for NEC with a standard straight USB-A plug. It points the USB socket straight up on NEC, 100, & 200. On 102 and M10 the USB socket would point straight down, so this version is no good for Tandy 102 or Olivetti M10.
+The "UP" variant is just an optional version which may be slightly more convenient in some cases. Mostly there is no need for it. It could be good for NEC with a standard straight USB-A plug. It points the USB socket straight up on NEC, 100, & 200. On 102 and M10 the USB socket would point straight down, so this version is no good for Tandy 102 or Olivetti M10.
 
 The "DOWN" variant is the opposite of the "UP" version, for TANDY 102 or Olivetti M10. The BCR port is "upside down" on those two models, which causes the normal BCR_USB_Power adapter to poing the USB cable in inelegant directions. This variant will point the USB cable directly up on those two models. It is not suitable for any other model. For this version, you should apply a drop of hot-glue over the indicated pin after soldering the DE9F but before installing the USB socket, to prevent the usb socket shield from touching the 5v pin. Bear in mind, the usb socket gets pushed on sometimes quite firmly when inserting the adapter into the computer.
 
 The "102" version is pretty much just for Tandy 102. This version points the USB socket towards the back of the Tandy 102, The way the normal version does on a Model 100.
 
-The "alt" and "long" versions don't require cutting down the DE9F connector, or don't require crimping the USB socket shield solder tabs. This makes the pcb larger, and poses a shorting hazard on the DE9F 5v pin.
+The "alt" and "long" versions don't require cutting down the DE9F connector, or don't require crimping the USB socket shield solder tabs. This makes the pcb larger, and poses a shorting hazard on the DE9F 5v pin, but they are a little simpler to build.
 
