@@ -1,0 +1,9 @@
+fp-info-cache
+*.bak
+*.bck
+*.net
+*.kicad_pcb-bak
+*.sch-bak
+*-cache.lib
+
+GERBER_*/
